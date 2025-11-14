@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alesh Dhakal (AD)</h1>
+📫 Reach me on Discord: [@ad7](https://discord.com/users/611828116540751873)
+
 
 <p align="center">
   💻 Computer Engineering student <br/>
