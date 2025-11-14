@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;Learning+Laravel+%26+PHP;Clean+Workflows+%7C+VS+Code+%7C+Notion;Always+Building+%26+Documenting&center=true&width=500&height=45" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Alesh Dhakal (AD)</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   💻 Computer Engineering student <br/>
