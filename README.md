@@ -25,18 +25,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleshdhakal7&show_icons=true&theme=radical" height="150" />
-  <img src="https://streak-stats.demolab.com?user=aleshdhakal7&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleshdhakal7&layout=compact&theme=radical&langs_count=8" height="150" />
-</p>
-
----
 
 <h2 align="center">🎯 Currently</h2>
 
